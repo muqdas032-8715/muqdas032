@@ -1,0 +1,6 @@
+{
+  "name": "Apex Recruit - Secure Job Application & Talent Portal",
+  "description": "Enterprise recruitment and job application management platform with secure candidate submissions and HR dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
